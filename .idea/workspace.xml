@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5e96f7d-2fbc-4c5c-8f8f-b23172b94218" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RRS_HomeWork_11-15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_11/Employee_HW10/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_11/Employee_HW10/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_11/Employee_HW10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_11/Employee_HW10/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_11/Employee_HW10/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_11/Employee_HW10/WorkerUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_11/Month_HW9/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_11/Month_HW9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_11/Month_HW9/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_11/Month_HW9/Month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_11/Month_HW9/MonthUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_12/Codewars_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_12/Codewars_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_12/Codewars_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_12/Codewars_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_12/Codewars_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_12/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_12/Task_1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2dWweACQ3IOcl8xjmGNvvMr9LNS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Julia/IdeaProjects/RRS_01",
+    "onboarding.tips.debug.path": "C:/Users/Julia/IdeaProjects/RRS_HomeWork_11-15/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Codewars_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_12.Codewars_2" />
+      <module name="RRS_HomeWork_11-15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Codewars_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_12.Codewars_3" />
+      <module name="RRS_HomeWork_11-15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Codewars_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_12.Codewars_4" />
+      <module name="RRS_HomeWork_11-15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Codewars_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_12.Codewars_5" />
+      <module name="RRS_HomeWork_11-15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_12.Main" />
+      <module name="RRS_HomeWork_11-15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Codewars_5" />
+        <item itemvalue="Application.Codewars_4" />
+        <item itemvalue="Application.Codewars_3" />
+        <item itemvalue="Application.Codewars_2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5e96f7d-2fbc-4c5c-8f8f-b23172b94218" name="Changes" comment="" />
+      <created>1710137238550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710137238550</updated>
+    </task>
+    <servers />
+  </component>
+</project>
